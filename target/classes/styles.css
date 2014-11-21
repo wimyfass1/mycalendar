@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+<h1 style="color: #666666;">
+
+html {
+	padding-top: 25px;
+	background-image: url(images/bg_page.png);
+}
+
+body{
+	width: 80%;
+	padding: 20px;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+	background-color: #E1EDEB;
+}

@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+h1{
+	font-size: 10pt;
+	font-family: 'Hanna', serif;
+	font-weight: normal;
+	color: #070046;
+	
+	margin: 0;
+}
+
+h2{
+	font-size: 20pt;
+	font-family: 'Nanum Gothic Coding', monospace;
+	font-weight: normal;
+	color: #18361d;
+	
+	margin: 10;
+}
+
+body {
+	font-size: 9pt;
+	align: center;
+	text-align: center;
+}
+
