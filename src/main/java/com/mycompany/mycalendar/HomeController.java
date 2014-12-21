@@ -105,6 +105,8 @@ public class HomeController {
 		model.addAttribute("calendarUser",calendarUser);
 		
 		 */
+		
+	//	System.out.println(events[1].getWhen().getTime());
 
 		model.addAttribute("calendarUsers", calendarUsers);
 		model.addAttribute("events", events);

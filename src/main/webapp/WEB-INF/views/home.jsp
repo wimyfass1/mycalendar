@@ -59,6 +59,8 @@
 						value="${status.count}" /></td>
 				<td align="center" class="listtd"><c:out value="${events.id}" /></td>
 				<td align="center" class="listtd"><c:out
+						value="${events.when.date}" /></td>
+				<td align="center" class="listtd"><c:out
 						value="${events.summary}" /></td>
 				<td align="center" class="listtd"><c:out
 						value="${events.description}" /></td>
